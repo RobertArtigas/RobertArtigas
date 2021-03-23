@@ -1,6 +1,6 @@
-### Greetings! 👋
+<!-- ### Greetings! 👋 -->
 
-## Look Here
+## Look Here 👋
 
 * [DCT2SQL Templates](https://github.com/RobertArtigas/DCT2SQL) 
 * [DCT2SQL Wiki](https://github.com/RobertArtigas/DCT2SQL/wiki) 
