@@ -2,7 +2,7 @@
 
 ## Look Here! 👋
 
-* [DCT2SQL Templates:](https://github.com/RobertArtigas/DCT2SQL) Dictionary to DDL SQL Generator 
+* [DCT2SQL Templates:](https://github.com/RobertArtigas/DCT2SQL) DDL SQL Generator (PostgreSQL, MySQL, MSSQL, SQLAnywhere, Mimer)
 * [DCT2SQL Wiki](https://github.com/RobertArtigas/DCT2SQL/wiki) 
 * [RYB Templates:](https://github.com/RobertArtigas/RYB) Run Your Business as Clarion developers
 * [RYB Wiki](https://github.com/RobertArtigas/RYB/wiki) 
