@@ -5,7 +5,7 @@
 | Type | URL | Description  |
 |-----|-----|-------------|
 | Templates | [DCT2SQL](https://github.com/RobertArtigas/DCT2SQL) | DDL SQL Generator (PostgreSQL, MySQL, MSSQL, SQLAnywhere, Mimer) 
-| Wiki | [DCT2SQL](https://github.com/RobertArtigas/DCT2SQL/wiki) | Documentation and [ToDo](https://github.com/RobertArtigas/DCT2SQL/wiki/ToDoList) List
+| Wiki | [DCT2SQL](https://github.com/RobertArtigas/DCT2SQL/wiki) | Documentation and **ISAM->SQL** Conversion [ToDo](https://github.com/RobertArtigas/DCT2SQL/wiki/ToDoList) List
 | Templates | [RYB](https://github.com/RobertArtigas/RYB) | **R**un **Y**our **B**usiness as a Clarion developer
 | WIki | [RYB](https://github.com/RobertArtigas/RYB/wiki) | Documentation
 | Templates | [DumpLoad](https://github.com/RobertArtigas/DumpLoad) | Save and Restore your Data (TPS <-> CSV)
