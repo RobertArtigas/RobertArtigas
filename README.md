@@ -9,7 +9,7 @@
 * [DumpLoad Templates:](https://github.com/RobertArtigas/DumpLoad) Save and Restore your Data (TPS <-> CSV)
 * [DumpLoad Wiki](https://github.com/RobertArtigas/DumpLoad/wiki) 
 
-* [RESults Wiki:](https://github.com/RobertArtigas/RES_Docs/wiki) Data Internationalization (Screen Captures: International, Location)
+* [RESults Wiki:](https://github.com/RobertArtigas/RES_Docs/wiki) Data Internationalization (Screen Captures: **International**, **Location**)
 
 
 <!-- [Home](https://github.com/RobertArtigas) -->
