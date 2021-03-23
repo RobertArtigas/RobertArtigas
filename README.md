@@ -6,7 +6,7 @@
 |-----|-----|-------------|
 | Templates | [DCT2SQL](https://github.com/RobertArtigas/DCT2SQL) | DDL SQL Generator (PostgreSQL, MySQL, MSSQL, SQLAnywhere, Mimer) 
 | Wiki | [DCT2SQL](https://github.com/RobertArtigas/DCT2SQL/wiki) | Documentation
-| Templates | [RYB](https://github.com/RobertArtigas/RYB) | Run Your Business as a Clarion developer
+| Templates | [RYB](https://github.com/RobertArtigas/RYB) | **R**un **Y**our **B**usiness as a Clarion developer
 | WIki | [RYB](https://github.com/RobertArtigas/RYB/wiki) | Documentation
 | Templates | [DumpLoad](https://github.com/RobertArtigas/DumpLoad) | Save and Restore your Data (TPS <-> CSV)
 | Wiki | [DumpLoad](https://github.com/RobertArtigas/DumpLoad/wiki) | Documention stub
