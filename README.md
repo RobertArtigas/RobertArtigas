@@ -7,7 +7,7 @@
 * [RYB Templates](https://github.com/RobertArtigas/RYB) 
 * [RYB Wiki](https://github.com/RobertArtigas/RYB/wiki) 
 
-[Home](https://github.com/RobertArtigas/RobertArtigas)
+<!-- [Home](https://github.com/RobertArtigas) -->
 [Main](https://github.com/RobertArtigas) 
 [Repositories](https://github.com/RobertArtigas?tab=repositories)
 
