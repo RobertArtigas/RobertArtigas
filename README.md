@@ -15,7 +15,7 @@
 | | |
 | Code | [QRCodeUsingClass](https://github.com/RobertArtigas/QRCodeUsingClass) | Classes to assist in generating QR Codes. Original Class Wrapper code given by Roberto Renz. Extensive work done on the repository by Mark Sarson. Quite a few [examples](https://github.com/RobertArtigas/QRCodeUsingClass/tree/master/Examples) contributed by members of the **Clarioneros** Skype group since QR Codes are required in commercial documents.
 | Code | [GPS_ReaderExample](https://github.com/RobertArtigas/GPS_ReaderExample) | Uses a combination of Clarion, .NET, and Javascript to get information from GPS devices, track moving vehicles, and update a web map interactivately as the vehicles move.
-! ! !
+| | |
 
 
 <!-- [Home](https://github.com/RobertArtigas) -->
