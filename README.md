@@ -2,7 +2,7 @@
 
 ## Look Here! 👋
 
-* [DCT2SQL Templates](https://github.com/RobertArtigas/DCT2SQL) 
+* [DCT2SQL Templates:](https://github.com/RobertArtigas/DCT2SQL) Dictionary to DDL SQL Generator 
 * [DCT2SQL Wiki](https://github.com/RobertArtigas/DCT2SQL/wiki) 
 * [RYB Templates](https://github.com/RobertArtigas/RYB) 
 * [RYB Wiki](https://github.com/RobertArtigas/RYB/wiki) 
