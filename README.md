@@ -3,7 +3,7 @@
 ## Look Here! 👋
 
 | Type | URL | Description  |
-|-----|-----|-------------|
+|:-----|:-----|:-------------|
 | Templates | [DCT2SQL](https://github.com/RobertArtigas/DCT2SQL) | DDL SQL Generator (PostgreSQL, MySQL, MSSQL, SQLAnywhere, Mimer) 
 | Wiki | [DCT2SQL](https://github.com/RobertArtigas/DCT2SQL/wiki) | Documentation and **ISAM->SQL** conversion [TODO](https://github.com/RobertArtigas/DCT2SQL/wiki/ToDoList) list
 | Webinars | [DCT2SQL](https://github.com/RobertArtigas/DCT2SQL) | ClarionLive: #474, #560, #579. Clarioneros: #164. 
