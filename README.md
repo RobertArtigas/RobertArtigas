@@ -7,7 +7,7 @@
 * [RYB Templates](https://github.com/RobertArtigas/RYB) 
 * [RYB Wiki](https://github.com/RobertArtigas/RYB/wiki) 
 * [DumpLoad Templates](https://github.com/RobertArtigas/DumpLoad) 
-* [Dumpload Wiki](https://github.com/RobertArtigas/DumpLoad/wiki) 
+* [DumpLoad Wiki](https://github.com/RobertArtigas/DumpLoad/wiki) 
 
 * 
 
