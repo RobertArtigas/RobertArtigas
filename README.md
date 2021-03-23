@@ -12,7 +12,7 @@
 Webinars |  [RYB](https://github.com/RobertArtigas/RYB) | ClarionLive: #576, #595. Clarioneros: #161, #163.
 | Templates | [DumpLoad](https://github.com/RobertArtigas/DumpLoad) | Save and restore your data (**TPS <-> CSV**)
 | Wiki | [DumpLoad](https://github.com/RobertArtigas/DumpLoad/wiki) | Documention stub
-! Webinars | [DumpLoad](https://github.com/RobertArtigas/DumpLoad) | ClarionLive: #595. Clarioneros: #178.
+| Webinars | [DumpLoad](https://github.com/RobertArtigas/DumpLoad) | ClarionLive: #595. Clarioneros: #178.
 | | | 
 | Wiki | [RESults](https://github.com/RobertArtigas/RES_Docs/wiki) | Data Internationalization (Screen Captures: **[International](https://github.com/RobertArtigas/RES_Docs/wiki/International)**, **[Location](https://github.com/RobertArtigas/RES_Docs/wiki/Location)**)
 | | |
