@@ -8,7 +8,7 @@
 | Wiki | [DCT2SQL](https://github.com/RobertArtigas/DCT2SQL/wiki) | Documentation and **ISAM->SQL** conversion [To Do](https://github.com/RobertArtigas/DCT2SQL/wiki/ToDoList) list
 | Templates | [RYB](https://github.com/RobertArtigas/RYB) | **R**un **Y**our **B**usiness as a Clarion developer
 | WIki | [RYB](https://github.com/RobertArtigas/RYB/wiki) | Documentation
-| Templates | [DumpLoad](https://github.com/RobertArtigas/DumpLoad) | Save and Restore your Data (TPS <-> CSV)
+| Templates | [DumpLoad](https://github.com/RobertArtigas/DumpLoad) | Save and restore your data (TPS **<->** CSV)
 | Wiki | [DumpLoad](https://github.com/RobertArtigas/DumpLoad/wiki) | Documention stub
 | | | 
 | Wiki | [RESults](https://github.com/RobertArtigas/RES_Docs/wiki) | Data Internationalization (Screen Captures: **[International](https://github.com/RobertArtigas/RES_Docs/wiki/International)**, **[Location](https://github.com/RobertArtigas/RES_Docs/wiki/Location)**)
