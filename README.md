@@ -4,12 +4,12 @@
 
 * [DCT2SQL Templates:](https://github.com/RobertArtigas/DCT2SQL) Dictionary to DDL SQL Generator 
 * [DCT2SQL Wiki](https://github.com/RobertArtigas/DCT2SQL/wiki) 
-* [RYB Templates](https://github.com/RobertArtigas/RYB) 
+* [RYB Templates:](https://github.com/RobertArtigas/RYB) Run Your Business as Clarion developers
 * [RYB Wiki](https://github.com/RobertArtigas/RYB/wiki) 
-* [DumpLoad Templates](https://github.com/RobertArtigas/DumpLoad) 
+* [DumpLoad Templates:](https://github.com/RobertArtigas/DumpLoad) Save and Restore your Data (TPS <-> CSV)
 * [DumpLoad Wiki](https://github.com/RobertArtigas/DumpLoad/wiki) 
 
-* [RESults Wiki](https://github.com/RobertArtigas/RES_Docs/wiki) 
+* [RESults Wiki](https://github.com/RobertArtigas/RES_Docs/wiki) Data Internationalization (Screen Captures)
 
 
 <!-- [Home](https://github.com/RobertArtigas) -->
