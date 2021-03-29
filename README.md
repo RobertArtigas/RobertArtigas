@@ -14,7 +14,7 @@ Webinars |  [RYB](https://github.com/RobertArtigas/RYB) | ClarionLive: #576, #59
 | Wiki | [DumpLoad](https://github.com/RobertArtigas/DumpLoad/wiki) | Documention stub
 | Webinars | [DumpLoad](https://github.com/RobertArtigas/DumpLoad) | ClarionLive: #595. Clarioneros: #178.
 | Wiki | [RESults](https://github.com/RobertArtigas/RES_Docs/wiki) | Data Internationalization (Screen Captures: **[International](https://github.com/RobertArtigas/RES_Docs/wiki/International)**, **[Location](https://github.com/RobertArtigas/RES_Docs/wiki/Location)**)
-| Wiki | [DCT2CLASS](https://github.com/RobertArtigas/DCT2CLASS_Docs/wiki) | Dictionary to class Documention
+| Wiki | [DCT2CLASS](https://github.com/RobertArtigas/DCT2CLASS_Docs/wiki) | Dictionary to Class: Documention
 | | |
 | Code | [QRCodeUsingClass](https://github.com/RobertArtigas/QRCodeUsingClass) | Classes to assist in generating QR Codes. Original Class Wrapper code given by Roberto Renz. Extensive work done on the repository by Mark Sarson. Quite a few [examples](https://github.com/RobertArtigas/QRCodeUsingClass/tree/master/Examples) contributed by members of the **Clarioneros** Skype group since QR Codes are used in commercial documents.
 | Code | [GPS_ReaderExample](https://github.com/RobertArtigas/GPS_ReaderExample) | Uses a combination of Clarion, .NET, and Javascript to get information from GPS devices, track moving vehicles, and update a web map interactivately as the vehicles move.
