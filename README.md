@@ -24,6 +24,8 @@ Webinars |  [RYB](https://github.com/RobertArtigas/RYB) | ClarionLive: #576, #59
 | | |
 | | [Resume](https://github.com/RobertArtigas/RobertArtigas/wiki/Resume) | __Status:__ *Available to help you complete your work.*
 
+##
+### TRULY HUMAN NOTICE:  Getting this email out of normal working hours? We work at a digitally-enabled relentless pace, which can disrupt our ability to sleep enough, eat right, exercise, and spend time with the people that matter most. I am sending you this email at a time that works for me. I only expect you to respond to it when convenient to you.
 
 <!-- [Home](https://github.com/RobertArtigas) -->
 [Main](https://github.com/RobertArtigas) 
