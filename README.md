@@ -15,7 +15,7 @@ Webinars |  [RYB](https://github.com/RobertArtigas/RYB) | ClarionLive: #576, #59
 | Webinars | [DumpLoad](https://github.com/RobertArtigas/DumpLoad) | ClarionLive: #595. Clarioneros: #178.
 | Wiki | [RESults](https://github.com/RobertArtigas/RES_Docs/wiki) | Data Internationalization (Screen Captures: **[International](https://github.com/RobertArtigas/RES_Docs/wiki/International)**, **[Location](https://github.com/RobertArtigas/RES_Docs/wiki/Location)**, **[UOM](https://github.com/RobertArtigas/RES_Docs/wiki/UOM-Conversions)**)
 | Webinars | [RESults](https://github.com/RobertArtigas/RES_Docs/wiki) | ClarionLive: #608 (Part 1), ClartionLive: #609 (Part 2),<BR/>Clarioneros: #186 (Part 1), Clarioneros: #192 (Part 2).
-| Wiki | [DCT2CLASS](https://github.com/RobertArtigas/DCT2CLASS_Docs/wiki) | **Clarion:** Dictionary to Class: Documention
+| Wiki | [DCT2CLASS](https://github.com/RobertArtigas/DCT2CLASS_Docs/wiki/Dictionary-to-Class-Generator-(DCT2CLASS)) | **Clarion:** Dictionary to Class: Documention
 | Wiki | [Code Generation](https://github.com/RobertArtigas/DCT2CLASS_Docs/wiki/A]-Steps-of-Code-Generation) |  **Clarion:** Code generation steps
 | | |
 | Code | [QRCodeUsingClass](https://github.com/RobertArtigas/QRCodeUsingClass) | Classes to assist in generating QR Codes. Original Class Wrapper code given by Roberto Renz. Extensive work done on the repository by Mark Sarson. Quite a few [examples](https://github.com/RobertArtigas/QRCodeUsingClass/tree/master/Examples) contributed by members of the **Clarioneros** Skype group since QR Codes are used in commercial documents.
