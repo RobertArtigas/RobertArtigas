@@ -26,6 +26,7 @@ Webinars |  [RYB](https://github.com/RobertArtigas/RYB) | ClarionLive: #576, #59
 | | |
 | | [Resume](https://github.com/RobertArtigas/RobertArtigas/wiki/Resume) | __Status:__ *Available to help you complete your work.*
 | | |
+| | |
 | ClarionHub | [CarlTBarnes](https://github.com/CarlTBarnes/CarlTBarnes/blob/main/ClarionHubList.md) | Carl's ClarionHub Favorites Page
 
 ##
