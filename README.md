@@ -18,6 +18,7 @@ Webinars |  [RYB](https://github.com/RobertArtigas/RYB) | ClarionLive: #576, #59
 | Wiki | [DCT2CLASS](https://github.com/RobertArtigas/DCT2CLASS_Docs/wiki/Dictionary-to-Class-Generator-(DCT2CLASS)) | **Clarion:** Dictionary to Class: Documention
 | Wiki | [Code Generation](https://github.com/RobertArtigas/DCT2CLASS_Docs/wiki/A]-Steps-of-Code-Generation) |  **Clarion:** Code generation steps
 | Code | [DEVUNA](https://github.com/RobertArtigas/DEVUNA__IDE__) | KSS source text search, Clarion Class viewer.
+| Wiki | [DEVUNA](https://github.com/RobertArtigas/DEVUNA__IDE__/wiki) | KSS source text search, Clarion Class viewer.
 | Webinars | [DEVUNA](https://github.com/RobertArtigas/DEVUNA__IDE__) | Nothing yet.
 | | |
 | Code | [QRCodeUsingClass](https://github.com/RobertArtigas/QRCodeUsingClass) | Classes to assist in generating QR Codes. Original Class Wrapper code given by Roberto Renz. Extensive work done on the repository by Mark Sarson. Quite a few [examples](https://github.com/RobertArtigas/QRCodeUsingClass/tree/master/Examples) contributed by members of the **Clarioneros** Skype group since QR Codes are used in commercial documents.
