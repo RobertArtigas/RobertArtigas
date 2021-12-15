@@ -14,7 +14,7 @@ Webinars |  [RYB](https://github.com/RobertArtigas/RYB) | ClarionLive: #576, #59
 | Wiki | [DumpLoad](https://github.com/RobertArtigas/DumpLoad/wiki) | Documention stub
 | Webinars | [DumpLoad](https://github.com/RobertArtigas/DumpLoad) | ClarionLive: #595. Clarioneros: #178.
 | Wiki | [RESults](https://github.com/RobertArtigas/RES_Docs/wiki) | Data Internationalization (Screen Captures: **[International](https://github.com/RobertArtigas/RES_Docs/wiki/International)**, **[Location](https://github.com/RobertArtigas/RES_Docs/wiki/Location)**, **[UOM](https://github.com/RobertArtigas/RES_Docs/wiki/UOM-Conversions)**)
-| Webinars | [RESults](https://github.com/RobertArtigas/RES_Docs/wiki) | ClarionLive: #608 (Part 1), ClartionLive: #609 (Part 2),<BR/>Clarioneros: #186 (Part 1), Clarioneros: #192 (Part 2).
+| Webinars | [RESults](https://github.com/RobertArtigas/RES_Docs/wiki) | ClarionLive: #608 (Part 1), ClarionLive: #609 (Part 2),<BR/>Clarioneros: #186 (Part 1), Clarioneros: #192 (Part 2).
 | Wiki | [DCT2CLASS](https://github.com/RobertArtigas/DCT2CLASS_Docs/wiki/Dictionary-to-Class-Generator-(DCT2CLASS)) | **Clarion:** Dictionary to Class: Documention
 | Wiki | [Code Generation](https://github.com/RobertArtigas/DCT2CLASS_Docs/wiki/A]-Steps-of-Code-Generation) |  **Clarion:** Code generation steps
 | Code | [DEVUNA](https://github.com/RobertArtigas/DEVUNA__IDE__) | KSS source text search, Clarion Class viewer.
