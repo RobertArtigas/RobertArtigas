@@ -55,10 +55,10 @@ thought our work was a waste of your time, I'm sorry that's the case...." -->
 ##
 
 Working Hard on Something <br/>
-That I'm Proud of <br/>
+That I'm Proud of, 
 Out of the Box <br/>
-An Epoxy to the World <br/>
-And the Vision We've Lost <br/>
+An Epoxy to the World,
+and the Vision We've Lost <br/>
 _Whatever It Takes - Imagine Dragons_
 
 <!--
