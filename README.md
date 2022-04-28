@@ -59,7 +59,7 @@ That I'm Proud of <br/>
 Out of the Box <br/>
 An Epoxy to the World <br/>
 And the Vision We've Lost <br/>
-_Whatever It Takes - Imagine Dragons_
+_**Whatever It Takes** - Imagine Dragons_
 
 <!--
 **RobertArtigas/RobertArtigas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
