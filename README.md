@@ -45,12 +45,21 @@ _Teddy Roosevelt_
 **TRULY HUMAN NOTICE:** Getting this email out of normal working hours? We work at a digitally-enabled relentless pace, which can disrupt our ability to sleep enough, eat right, exercise, and spend time with the people that matter most. I am sending you this email at a time that works for me. I only expect you to respond to it when convenient to you.
 
 ##
-<!-- "Dear so and so, based on your complete lack of response I'm assuming I've somehow offended you or that you thought our work was a waste of your time, I'm sorry that's the case...." -->
+<!-- "Dear so and so, based on your complete lack of response I'm assuming I've somehow offended you or that you 
+thought our work was a waste of your time, I'm sorry that's the case...." -->
 
 <!-- [Home](https://github.com/RobertArtigas) -->
 [Main](https://github.com/RobertArtigas) 
 [Repositories](https://github.com/RobertArtigas?tab=repositories)
 
+##
+
+Working Hard on Something
+That I'm Proud of
+Out of the Box
+An Epoxy to the World
+And the Vision We've Lost
+_Whatever It Takes - Imagine Dragons_
 
 <!--
 **RobertArtigas/RobertArtigas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
