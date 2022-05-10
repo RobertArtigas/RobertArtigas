@@ -62,7 +62,7 @@ And the Vision We've Lost <br/>
 _**Whatever It Takes** - Imagine Dragons_
 
 ##
-![A](https://github.com/RobertArtigas/blob/master/images/ENV_01_VM_VISUAL_STUDIO.PNG)
+![A](https://github.com/RobertArtigas/RobertArtigas/blob/master/images/ENV_01_VM_VISUAL_STUDIO.PNG)
 ![A](https://github.com/RobertArtigas/RYB/blob/master/images/ICONS_01.PNG)
 
 <!--
