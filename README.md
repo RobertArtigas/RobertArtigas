@@ -61,8 +61,11 @@ An Epoxy to the World <br/>
 And the Vision We've Lost <br/>
 _**Whatever It Takes** - Imagine Dragons_
 
+##
+
 ## Visual Studio Environment
 ![A](https://github.com/RobertArtigas/__ENV__/blob/main/Images/ENV_01_VM_VISUAL_STUDIO.PNG)
+
 ## Clarion Environment
 ![A](https://github.com/RobertArtigas/__ENV__/blob/main/Images/ENV_02_VM_CLARION.PNG)
 
