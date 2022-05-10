@@ -63,12 +63,12 @@ _**Whatever It Takes** - Imagine Dragons_
 
 ##
 
-## Visual Studio Environment (2022.05.01 - Current)
+## Visual Studio Environment (2022.05 - Current)
 ![A](https://github.com/RobertArtigas/__ENV__/blob/main/Images/ENV_01_VM_VISUAL_STUDIO.PNG)
 
 ##
 
-## Clarion Environment (????.??.?? - Current)
+## Clarion Environment (1998.03 - Current)
 ![A](https://github.com/RobertArtigas/__ENV__/blob/main/Images/ENV_02_VM_CLARION.PNG)
 
 ##
