@@ -71,13 +71,14 @@ _**Whatever It Takes** - Imagine Dragons_
 ## Clarion Environment (1998.03 - Current)
 ![A](https://github.com/RobertArtigas/__ENV__/blob/main/Images/ENV_02_01_VM_CLARION.PNG)
 
+<!--
 ##
 
 ## Consulting
 ![A](https://github.com/RobertArtigas/__ENV__/blob/main/Other/MYTHS_ABOUT_CONSULTING.PNG)
 
+-->
 ##
-
 
 <!--
 **RobertArtigas/RobertArtigas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
