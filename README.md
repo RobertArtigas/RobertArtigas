@@ -74,7 +74,7 @@ _**Whatever It Takes** - Imagine Dragons_
 ##
 
 ## Consulting
-![A](https://github.com/RobertArtigas/RobertArtigas/blob/main/Images/MYTHS_ABOUT_CONSULTING.PNG)
+![A](https://github.com/RobertArtigas/RobertArtigas/Images/MYTHS_ABOUT_CONSULTING.PNG)
 
 ##
 
