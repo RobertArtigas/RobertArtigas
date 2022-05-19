@@ -73,6 +73,12 @@ _**Whatever It Takes** - Imagine Dragons_
 
 ##
 
+## Consulting
+![A](https://github.com/RobertArtigas/RobertArtigas/blob/main/Images/MYTHS_ABOUT_CONSULTING.PNG)
+
+##
+
+
 <!--
 **RobertArtigas/RobertArtigas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
