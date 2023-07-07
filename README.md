@@ -71,6 +71,11 @@ _**Whatever It Takes** - Imagine Dragons_
 ## Clarion Environment (1998.03 - Current)
 ![A](https://github.com/RobertArtigas/_ENV_/blob/main/Environment/Clarion/Images/ENV_02_01_VM_CLARION.PNG)
 
+##
+
+**They who can give up essential liberty to obtain a little temporary safety deserve neither liberty nor safety.** <br/>
+_- Benjamin Franklin, 1759_
+
 <!--
 ##
 
