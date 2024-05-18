@@ -2,7 +2,7 @@
 
 <h1>Look Here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h1>
 <!--
-<blockquote>Connect</blockquote>https://www.softvelocity.com/
+<blockquote>Connect</blockquote>(https://smartbear.com/product/testcomplete)
 -->
 
 **Communications**</BR>
@@ -11,7 +11,7 @@
 <BR>**Languages**</BR>
 [![Clarion](https://img.shields.io/badge/-Clarion-8F599C?logo=c&logoColor=white&style=plastic)](https://www.softvelocity.com)
 [![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
-[![JScript](https://img.shields.io/badge/-JScript-F72F1E?logo=javascript&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
+[![JScript](https://img.shields.io/badge/-JScript-F72F1E?logo=javascript&logoColor=white&style=plastic)](https://smartbear.com/product/testcomplete)
 [![C](https://img.shields.io/badge/-C-F7DF1E?logo=c&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
 [![C++](https://img.shields.io/badge/-C++-9C033A?logo=cplusplus&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
 [![FileMaker](https://img.shields.io/badge/-FileMaker-42033A?logo=FileMaker&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
