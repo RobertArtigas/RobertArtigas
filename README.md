@@ -2,7 +2,7 @@
 
 <h1>Look Here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h1>
 <!--
-(https://monday.com/)
+(https://clickup.com/)
 (https://forum.powerbasic.com/forum/user-to-user-discussions/powerbasic-console-compiler/797513-powerbasic-have-a-future)
 <blockquote>Connect</blockquote>(https://www.precisely.com/product/precisely-mapinfo/mapinfo-pro)
 (https://www.embarcadero.com/products/delphi/features/delphi)
@@ -31,7 +31,7 @@
 [![Mimer](https://img.shields.io/badge/-Mimer-CC29A7?logo=Mimer&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
 <BR>**Office**</BR>
 [![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-E83BA3?logo=microsoft%20office&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
-[![Clickup](https://img.shields.io/badge/-Clickup-D83B21?logo=Clickup&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
+[![Clickup](https://img.shields.io/badge/-Clickup-D83B21?logo=Clickup&logoColor=white&style=plastic)](https://clickup.com/)
 [![Monday](https://img.shields.io/badge/-Monday-2C623A?logo=monday&logoColor=white&style=plastic)](https://monday.com/)
 
 ##
