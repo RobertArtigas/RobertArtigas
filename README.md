@@ -7,7 +7,8 @@
 <blockquote>Connect</blockquote>(https://www.precisely.com/product/precisely-mapinfo/mapinfo-pro)
 (https://www.embarcadero.com/products/delphi/features/delphi)
 [![PowerBasic](https://img.shields.io/badge/-PowerBasic-2C623A?logo=PowerBasic&logoColor=white&style=plastic)](https://forum.powerbasic.com/forum/user-to-user-discussions/powerbasic-console-compiler/797513-powerbasic-have-a-future)
---></BR>
+-->
+
 **Communications**</BR>
 ![Mail](https://img.shields.io/badge/-roberto.artigas.dev@gmail.com-555?logo=gmail&logoColor=white&labelColor=EA4335&style=plastic)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/artigas/)
@@ -32,7 +33,6 @@
 [![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-E83BA3?logo=microsoft%20office&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
 [![Clickup](https://img.shields.io/badge/-Clickup-D83B21?logo=Clickup&logoColor=white&style=plastic)](https://clickup.com/)
 [![Monday](https://img.shields.io/badge/-Monday-2C623A?logo=monday&logoColor=white&style=plastic)](https://monday.com/)
-
 ##
 
 | Type | URL | Description  |
