@@ -2,7 +2,7 @@
 
 <h1>Look Here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h1>
 <!--
-(https://www.libreoffice.org)
+(https://www.sap.com/products/technology-platform/sql-anywhere.html)
 (https://forum.powerbasic.com/forum/user-to-user-discussions/powerbasic-console-compiler/797513-powerbasic-have-a-future)
 <blockquote>Connect</blockquote>(https://www.precisely.com/product/precisely-mapinfo/mapinfo-pro)
 (https://www.embarcadero.com/products/delphi/features/delphi)
@@ -26,8 +26,8 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=plastic)](https://www.postgresql.org/)
 [![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
-[![MySQL](https://img.shields.io/badge/-MySQL-CC2967?logo=MySQL&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
-[![SQLAnywhere](https://img.shields.io/badge/-SQLAnywhere-7f2967?logo=SQLAnywhere&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
+[![MySQL](https://img.shields.io/badge/-MySQL-CC2967?logo=MySQL&logoColor=white&style=plastic)](https://www.mysql.com)
+[![SQL&20Anywhere](https://img.shields.io/badge/-SQL%20Anywhere-7f2967?logo=SQL%20Anywhere&logoColor=white&style=plastic)](https://www.sap.com/products/technology-platform/sql-anywhere.html)
 [![Mimer](https://img.shields.io/badge/-Mimer-CC29A7?logo=Mimer&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
 <BR>**Office**</BR>
 [![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-E83BA3?logo=microsoft%20office&logoColor=white&style=plastic)](https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products-b)
