@@ -30,7 +30,7 @@
 [![SQLAnywhere](https://img.shields.io/badge/-SQLAnywhere-7f2967?logo=SQLAnywhere&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
 [![Mimer](https://img.shields.io/badge/-Mimer-CC29A7?logo=Mimer&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
 <BR>**Office**</BR>
-[![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-E83BA3?logo=microsoft%20office&logoColor=white&style=plastic)][(https://github.com/RobertArtigas)](https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products-b)
+[![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-E83BA3?logo=microsoft%20office&logoColor=white&style=plastic)](https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products-b)
 [![Clickup](https://img.shields.io/badge/-Clickup-D83B21?logo=Clickup&logoColor=white&style=plastic)](https://clickup.com/)
 [![Monday](https://img.shields.io/badge/-Monday-2C623A?logo=monday&logoColor=white&style=plastic)](https://monday.com/)
 ##
