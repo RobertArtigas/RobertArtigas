@@ -28,7 +28,7 @@
 <BR>**Office**</BR>
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?logo=microsoft%20office&logoColor=white&style=plastic)
 ![Clickup](https://img.shields.io/badge/-Clickup-D83B01?logo=Clickup&logoColor=white&style=plastic)
-![Monday](https://img.shields.io/badge/-ClickUp-D83B01?logo=Clickup&logoColor=white&style=plastic)
+![Monday](https://img.shields.io/badge/-Monday-D83B01?logo=Monday&logoColor=white&style=plastic)
 
 ##
 
