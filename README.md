@@ -31,7 +31,7 @@
 [![Mimer](https://img.shields.io/badge/-Mimer-CC29A7?logo=Mimer&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
 <BR>**Office**</BR>
 [![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-E83BA3?logo=microsoft%20office&logoColor=white&style=plastic)](https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products-b)
-[![Libre Office](https://img.shields.io/badge/-Microsoft%20Office-E83BA3?logo=Libre%20office&logoColor=white&style=plastic)](https://www.libreoffice.org)
+[![Libre Office](https://img.shields.io/badge/-Libre%20Office-E83BA3?logo=Libreoffice&logoColor=white&style=plastic)](https://www.libreoffice.org)
 [![Clickup](https://img.shields.io/badge/-Clickup-D83B21?logo=Clickup&logoColor=white&style=plastic)](https://clickup.com/)
 [![Monday](https://img.shields.io/badge/-Monday-2C623A?logo=monday&logoColor=white&style=plastic)](https://monday.com/)
 ##
