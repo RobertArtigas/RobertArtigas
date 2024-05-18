@@ -14,6 +14,10 @@
 [![JScript](https://img.shields.io/badge/-JScript-F72F1E?logo=javascript&logoColor=white&style=plastic)](https://github.com/samstarke)
 [![C](https://img.shields.io/badge/-C-F7DF1E?logo=cplusplus&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
 [![C++](https://img.shields.io/badge/-C++-9C033A?logo=cplusplus&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
+[![FileMaker](https://img.shields.io/badge/-FileMaker-9C033A?logo=cplusplus&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
+[![PowerBasic](https://img.shields.io/badge/-PowerBasic-9C033A?logo=cplusplus&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
+[![MapBasic](https://img.shields.io/badge/-MapBasic-9C033A?logo=cplusplus&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
+[![Pascal](https://img.shields.io/badge/-Pascal-9C033A?logo=cplusplus&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
 <BR>**Tools**</BR>
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=plastic)
 ![SQLAnywhere](https://img.shields.io/badge/-SQLAnywhere-CC2927?logo=microsoft%20sql%20server&logoColor=white&style=plastic)
