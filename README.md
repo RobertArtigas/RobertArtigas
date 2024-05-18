@@ -26,7 +26,7 @@
 ![SQLAnywhere](https://img.shields.io/badge/-SQLAnywhere-7f2967?logo=SQLAnywhere&logoColor=white&style=plastic)
 ![Mimer](https://img.shields.io/badge/-Mimer-CC29A7?logo=Mimer&logoColor=white&style=plastic)
 <BR>**Office**</BR>
-![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-E83B01?logo=microsoft%20office&logoColor=white&style=plastic)
+![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-E83B31?logo=microsoft%20office&logoColor=white&style=plastic)
 ![Clickup](https://img.shields.io/badge/-Clickup-D83B21?logo=Clickup&logoColor=white&style=plastic)
 ![Monday](https://img.shields.io/badge/-Monday-485B01?logo=Monday&logoColor=white&style=plastic)
 
