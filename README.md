@@ -18,7 +18,7 @@
 [![JScript](https://img.shields.io/badge/-JScript-F72F1E?logo=javascript&logoColor=white&style=plastic)](https://smartbear.com/product/testcomplete)
 [![C](https://img.shields.io/badge/-C-F7DF1E?logo=c&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
 [![C++](https://img.shields.io/badge/-C++-9C033A?logo=cplusplus&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
-[![FileMaker](https://img.shields.io/badge/-FileMaker-42033A?logo=FileMaker&logoColor=white&style=plastic)](https://www.claris.com/)
+[![FileMaker](https://img.shields.io/badge/-FileMaker-42033A?logo=Claris&logoColor=white&style=plastic)](https://www.claris.com/)
 [![MapBasic](https://img.shields.io/badge/-MapBasic-5C038A?logo=MapBasic&logoColor=white&style=plastic)](https://www.precisely.com/product/precisely-mapinfo/mapinfo-pro)
 [![CBuilder](https://img.shields.io/badge/-CBuilder-2C623A?logo=Delphi&logoColor=white&style=plastic)](https://www.embarcadero.com/products/delphi/features/delphi)
 [![Delphi](https://img.shields.io/badge/-Delphi-9C783A?logo=Delphi&logoColor=white&style=plastic)](https://www.embarcadero.com/products/cbuilder)
