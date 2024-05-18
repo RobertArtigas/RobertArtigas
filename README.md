@@ -1,11 +1,12 @@
 <!-- ### Greetings! 👋 -->
 
 <h1>Look Here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h1>
+<!--
 <blockquote>Connect</blockquote>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/artigas/)
 ![Mail](https://img.shields.io/badge/-roberto.artigas.dev@gmail.com-?logo=gmail&logoColor=white&labelColor=EA4335&style=plastic)
 
-
+-->
 ##
 
 | Type | URL | Description  |
