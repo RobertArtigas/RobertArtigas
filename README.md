@@ -15,9 +15,9 @@
 [![C](https://img.shields.io/badge/-C-F7DF1E?logo=c&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
 [![C++](https://img.shields.io/badge/-C++-9C033A?logo=cplusplus&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
 [![FileMaker](https://img.shields.io/badge/-FileMaker-42033A?logo=FileMaker&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
-[![PowerBasic](https://img.shields.io/badge/-PowerBasic-2C223A?logo=PowerBasic&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
-[![MapBasic](https://img.shields.io/badge/-MapBasic-9C033A?logo=MapBasic&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
-[![Pascal](https://img.shields.io/badge/-Pascal-9C033A?logo=Pascal&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
+[![PowerBasic](https://img.shields.io/badge/-PowerBasic-2C623A?logo=PowerBasic&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
+[![MapBasic](https://img.shields.io/badge/-MapBasic-5C038A?logo=MapBasic&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
+[![Pascal](https://img.shields.io/badge/-Pascal-9C783A?logo=Pascal&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
 <BR>**Software**</BR>
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=plastic)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=plastic)
