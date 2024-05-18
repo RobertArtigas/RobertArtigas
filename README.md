@@ -9,8 +9,10 @@
 ![Mail](https://img.shields.io/badge/-roberto.artigas.dev@gmail.com-555?logo=gmail&logoColor=white&labelColor=EA4335&style=plastic)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/artigas/)
 <BR>**Technology Stack**</BR>
-[![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=plastic)](https://github.com/samstarke)
-[![C++](https://img.shields.io/badge/-C++-9C033A?logo=cplusplus&logoColor=white&style=plastic)](https://github.com/samstarke)
+[![Clarion](https://img.shields.io/badge/-Clarion-00599C?logo=c&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
+[![C](https://img.shields.io/badge/-C-9C033A?logo=cplusplus&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
+[![C++](https://img.shields.io/badge/-C++-9C033A?logo=cplusplus&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
+[![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
 
 
 ##
