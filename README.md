@@ -4,9 +4,10 @@
 <!--
 <blockquote>Connect</blockquote>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/artigas/)
-![Mail](https://img.shields.io/badge/-roberto.artigas.dev@gmail.com-?logo=gmail&logoColor=white&labelColor=EA4335&style=plastic)
+![Mail](https://img.shields.io/badge/-roberto.artigas.dev@gmail.com?logo=gmail&logoColor=white&labelColor=EA4335&style=plastic)
 -->
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/artigas/)
 ##
 
 | Type | URL | Description  |
