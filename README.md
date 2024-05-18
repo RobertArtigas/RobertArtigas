@@ -18,13 +18,16 @@
 [![PowerBasic](https://img.shields.io/badge/-PowerBasic-9C033A?logo=PowerBasic&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
 [![MapBasic](https://img.shields.io/badge/-MapBasic-9C033A?logo=MapBasic&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
 [![Pascal](https://img.shields.io/badge/-Pascal-9C033A?logo=Pascal&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
-<BR>**Tools**</BR>
+<BR>**Software**</BR>
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=plastic)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=plastic)
 ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white&style=plastic)
 ![MySQL](https://img.shields.io/badge/-MySQL-CC2927?logo=MySQL&logoColor=white&style=plastic)
 ![SQLAnywhere](https://img.shields.io/badge/-SQLAnywhere-CC2927?logo=SQLAnywhere&logoColor=white&style=plastic)
 ![Mimer](https://img.shields.io/badge/-Mimer-CC2927?logo=Mimer&logoColor=white&style=plastic)
+<BR>**Office**</BR>
+![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?logo=microsoft%20office&logoColor=white&style=plastic)
+![ClickUp](https://img.shields.io/badge/-ClickUp-D83B01?logo=Clickup&logoColor=white&style=plastic)
 
 ##
 
