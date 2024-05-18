@@ -28,7 +28,7 @@
 <BR>**Office**</BR>
 [![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-E83BA3?logo=microsoft%20office&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
 [![Clickup](https://img.shields.io/badge/-Clickup-D83B21?logo=Clickup&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
-[![Monday](https://img.shields.io/badge/-Monday-485B01?logo=Monday&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
+[![Monday](https://img.shields.io/badge/-Monday-2C623A?logo=Monday&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
 
 ##
 
