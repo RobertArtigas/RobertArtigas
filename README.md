@@ -13,13 +13,13 @@
 ![Mail](https://img.shields.io/badge/-roberto.artigas.dev@gmail.com-555?logo=gmail&logoColor=white&labelColor=EA4335&style=plastic)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/artigas/)
 <BR>**Languages**</BR>
-[![Clarion](https://img.shields.io/badge/-Clarion-8F599C?logo=c&logoColor=white&style=plastic)](https://www.softvelocity.com)
+[![Clarion](https://img.shields.io/badge/-Clarion-5C038A?logo=c&logoColor=white&style=plastic)](https://www.softvelocity.com)
 [![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
 [![JScript](https://img.shields.io/badge/-JScript-F72F1E?logo=javascript&logoColor=white&style=plastic)](https://smartbear.com/product/testcomplete)
 [![C](https://img.shields.io/badge/-C-F7DF1E?logo=c&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
 [![C++](https://img.shields.io/badge/-C++-9C033A?logo=cplusplus&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
 [![FileMaker](https://img.shields.io/badge/-FileMaker-42033A?logo=Claris&logoColor=white&style=plastic)](https://www.claris.com/)
-[![MapBasic](https://img.shields.io/badge/-MapBasic-5C038A?logo=Precisely&logoColor=white&style=plastic)](https://www.precisely.com/product/precisely-mapinfo/mapinfo-pro)
+[![MapBasic](https://img.shields.io/badge/-MapBasic-8F599C?logo=Precisely&logoColor=white&style=plastic)](https://www.precisely.com/product/precisely-mapinfo/mapinfo-pro)
 [![CBuilder](https://img.shields.io/badge/-CBuilder-2C623A?logo=Delphi&logoColor=white&style=plastic)](https://www.embarcadero.com/products/delphi/features/delphi)
 [![Delphi](https://img.shields.io/badge/-Delphi-9C783A?logo=Delphi&logoColor=white&style=plastic)](https://www.embarcadero.com/products/cbuilder)
 <BR>**Software**</BR>
@@ -31,7 +31,7 @@
 [![Mimer](https://img.shields.io/badge/-Mimer-CC29A7?logo=Mimer&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
 <BR>**Office**</BR>
 [![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-E83BA3?logo=microsoft%20office&logoColor=white&style=plastic)](https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products-b)
-[![Libre Office](https://img.shields.io/badge/-Libre%20Office-E83BA3?logo=Libreoffice&logoColor=white&style=plastic)](https://www.libreoffice.org)
+[![Libre Office](https://img.shields.io/badge/-Libre%20Office-5C338A?logo=Libreoffice&logoColor=white&style=plastic)](https://www.libreoffice.org)
 [![Clickup](https://img.shields.io/badge/-Clickup-D83B21?logo=Clickup&logoColor=white&style=plastic)](https://clickup.com/)
 [![Monday](https://img.shields.io/badge/-Monday-2C623A?logo=monday&logoColor=white&style=plastic)](https://monday.com/)
 ##
