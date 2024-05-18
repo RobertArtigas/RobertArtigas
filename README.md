@@ -10,9 +10,10 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/artigas/)
 <BR>**Technology Stack**</BR>
 [![Clarion](https://img.shields.io/badge/-Clarion-8F599C?logo=c&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
+[![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
+[![JScript](https://img.shields.io/badge/-JScript-F7DF1E?logo=javascript&logoColor=white&style=plastic)](https://github.com/samstarke)
 [![C](https://img.shields.io/badge/-C-F7DF1E?logo=cplusplus&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
 [![C++](https://img.shields.io/badge/-C++-9C033A?logo=cplusplus&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
-[![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white&style=plastic)](https://github.com/RobertArtigas)
 
 
 ##
