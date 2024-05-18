@@ -10,7 +10,7 @@
 -->
 
 **Communications**</BR>
-![Mail](https://img.shields.io/badge/-roberto.artigas.dev@gmail.com-555?logo=gmail&logoColor=white&labelColor=EA4335&style=plastic)
+[![Mail](https://img.shields.io/badge/-roberto.artigas.dev@gmail.com-555?logo=gmail&logoColor=white&labelColor=EA4335&style=plastic)](https://github.com/RobertArtigas)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/artigas/)
 <BR>**Languages**</BR>
 [![Clarion](https://img.shields.io/badge/-Clarion-5C038A?logo=c&logoColor=white&style=plastic)](https://www.softvelocity.com)
