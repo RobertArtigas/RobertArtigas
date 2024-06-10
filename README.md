@@ -61,7 +61,7 @@ Webinars |  [RYB](https://github.com/RobertArtigas/RYB) | ClarionLive: #576, #59
 | Code | [ClarionUD_6](https://github.com/RobertArtigas/ClarionUD_6) | UltimateDebug for Clarion version 6.3. Open source version of ClarionLive's UltimateDebug, seeded by their 2017-12-29 release. MIT style license. License documented in installer at http://clarionlive.wikispaces.com This was the current version of the UltimateDebug provided by Mr. John Hickey on 10/26/2019 with some cosmetic modifications so it will run on Clarion version 6.3. This is used for the Clarion debug chain on legacy code.
 | | |
 | | |
-| [![Resume](https://img.shields.io/badge/-Clarion-8C038A?logo=c&logoColor=white&style=plastic)](https://www.softvelocity.com) | [Resume](https://github.com/RobertArtigas/RobertArtigas/wiki/Resume) | __Status:__ *Available to help you complete your work.*
+| [![Resume](https://img.shields.io/badge/-Clarion-8C030A?logo=c&logoColor=white&style=plastic)](https://www.softvelocity.com) | [Resume](https://github.com/RobertArtigas/RobertArtigas/wiki/Resume) | __Status:__ *Available to help you complete your work.*
 | | |
 | | |
 <!--
