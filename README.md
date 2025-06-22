@@ -38,6 +38,7 @@
 
 | Type | URL | Description  |
 |:-----|:-----|:-------------|
+| Setup | [Installers](https://github.com/RobertArtigas/Installers) | All Installers in an easy downloadable location
 | Templates | [DCT2SQL](https://github.com/RobertArtigas/DCT2SQL) | DDL SQL Generator (PostgreSQL, MySQL, MSSQL, SQLAnywhere, Mimer) 
 | Wiki | [DCT2SQL](https://github.com/RobertArtigas/DCT2SQL/wiki) | Documentation and **ISAM->SQL** conversion [TODO](https://github.com/RobertArtigas/DCT2SQL/wiki/To-Do-List) list
 | Webinars | [DCT2SQL](https://github.com/RobertArtigas/DCT2SQL) | ClarionLive: #474, #560, #579. Clarioneros: #164. 
