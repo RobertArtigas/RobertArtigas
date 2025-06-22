@@ -50,6 +50,8 @@ Webinars |  [RYB](https://github.com/RobertArtigas/RYB) | ClarionLive: #576, #59
 | Templates | [DumpLoad](https://github.com/RobertArtigas/DumpLoad) | Save and restore your data (**TPS <-> CSV**)
 | Wiki | [DumpLoad](https://github.com/RobertArtigas/DumpLoad/wiki) | Documention
 | Webinars | [DumpLoad](https://github.com/RobertArtigas/DumpLoad) | ClarionLive: #595. Clarioneros: #178.
+| Templates | [XMLDOC](https://github.com/RobertArtigas/XMLDOC) | Create XML dump from the Dictionary and Application template internal structure
+| Wiki | [XMLDOC](https://github.com/RobertArtigas/XMLDOC/wiki) | Documentation
 | Wiki | [RESults](https://github.com/RobertArtigas/RES_Docs/wiki) | Data Internationalization (Screen Captures: **[International](https://github.com/RobertArtigas/RES_Docs/wiki/International)**, **[Location](https://github.com/RobertArtigas/RES_Docs/wiki/Location)**, **[UOM](https://github.com/RobertArtigas/RES_Docs/wiki/UOM-Conversions)**)
 | Webinars | [RESults](https://github.com/RobertArtigas/RES_Docs/wiki) | ClarionLive: #608 (Part 1), ClarionLive: #609 (Part 2),<BR/>Clarioneros: #186 (Part 1), Clarioneros: #192 (Part 2).
 | Wiki | [DCT2CLASS](https://github.com/RobertArtigas/DCT2CLASS_Docs/wiki/Dictionary-to-Class-Generator-(DCT2CLASS)) | **Clarion:** Dictionary to Class: Documention
