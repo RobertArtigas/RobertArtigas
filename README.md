@@ -43,8 +43,10 @@
 | Wiki | [DCT2SQL](https://github.com/RobertArtigas/DCT2SQL/wiki) | Documentation and **ISAM->SQL** conversion [TODO](https://github.com/RobertArtigas/DCT2SQL/wiki/To-Do-List) list
 | Webinars | [DCT2SQL](https://github.com/RobertArtigas/DCT2SQL) | ClarionLive: #474, #560, #579. Clarioneros: #164. 
 | Templates<br/>Classes | [RYB](https://github.com/RobertArtigas/RYB) | **R**un **Y**our **B**usiness as a Clarion developer
-| WIki | [RYB](https://github.com/RobertArtigas/RYB/wiki) | Documentation
+| Wiki | [RYB](https://github.com/RobertArtigas/RYB/wiki) | Documentation
 Webinars |  [RYB](https://github.com/RobertArtigas/RYB) | ClarionLive: #576, #595. Clarioneros: #161, #163.
+| Templates | [RYBEQUATES](https://github.com/RobertArtigas/RYBEQUATES) | Clarion EQUATES genererator
+| Wiki | [RYBEQUATES](https://github.com/RobertArtigas/RYBEQUATES/wiki) | Documentatation
 | Templates | [DumpLoad](https://github.com/RobertArtigas/DumpLoad) | Save and restore your data (**TPS <-> CSV**)
 | Wiki | [DumpLoad](https://github.com/RobertArtigas/DumpLoad/wiki) | Documention stub
 | Webinars | [DumpLoad](https://github.com/RobertArtigas/DumpLoad) | ClarionLive: #595. Clarioneros: #178.
