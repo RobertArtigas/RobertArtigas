@@ -45,7 +45,7 @@
 | Templates<br/>Classes | [RYB](https://github.com/RobertArtigas/RYB) | **R**un **Y**our **B**usiness as a Clarion developer
 | Wiki | [RYB](https://github.com/RobertArtigas/RYB/wiki) | Documentation
 Webinars |  [RYB](https://github.com/RobertArtigas/RYB) | ClarionLive: #576, #595. Clarioneros: #161, #163.
-| Templates | [RYBEQUATES](https://github.com/RobertArtigas/RYBEQUATES) | Clarion EQUATES genererator
+| Templates | [RYBEQUATES](https://github.com/RobertArtigas/RYBEQUATES) | Clarion EQUATES genererator (Other computer languages and data sources included)
 | Wiki | [RYBEQUATES](https://github.com/RobertArtigas/RYBEQUATES/wiki) | Documentatation
 | Templates | [DumpLoad](https://github.com/RobertArtigas/DumpLoad) | Save and restore your data (**TPS <-> CSV**)
 | Wiki | [DumpLoad](https://github.com/RobertArtigas/DumpLoad/wiki) | Documention stub
