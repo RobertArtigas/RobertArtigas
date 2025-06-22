@@ -48,7 +48,7 @@ Webinars |  [RYB](https://github.com/RobertArtigas/RYB) | ClarionLive: #576, #59
 | Templates | [RYBEQUATES](https://github.com/RobertArtigas/RYBEQUATES) | Clarion EQUATES genererator (Other computer languages and data sources included)
 | Wiki | [RYBEQUATES](https://github.com/RobertArtigas/RYBEQUATES/wiki) | Documentatation
 | Templates | [DumpLoad](https://github.com/RobertArtigas/DumpLoad) | Save and restore your data (**TPS <-> CSV**)
-| Wiki | [DumpLoad](https://github.com/RobertArtigas/DumpLoad/wiki) | Documention stub
+| Wiki | [DumpLoad](https://github.com/RobertArtigas/DumpLoad/wiki) | Documention
 | Webinars | [DumpLoad](https://github.com/RobertArtigas/DumpLoad) | ClarionLive: #595. Clarioneros: #178.
 | Wiki | [RESults](https://github.com/RobertArtigas/RES_Docs/wiki) | Data Internationalization (Screen Captures: **[International](https://github.com/RobertArtigas/RES_Docs/wiki/International)**, **[Location](https://github.com/RobertArtigas/RES_Docs/wiki/Location)**, **[UOM](https://github.com/RobertArtigas/RES_Docs/wiki/UOM-Conversions)**)
 | Webinars | [RESults](https://github.com/RobertArtigas/RES_Docs/wiki) | ClarionLive: #608 (Part 1), ClarionLive: #609 (Part 2),<BR/>Clarioneros: #186 (Part 1), Clarioneros: #192 (Part 2).
