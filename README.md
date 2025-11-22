@@ -59,8 +59,8 @@ Webinars |  [RYB](https://github.com/RobertArtigas/RYB) | ClarionLive: #576, #59
 | Code | [DEVUNA](https://github.com/RobertArtigas/DEVUNA__IDE__) | KSS source text search, Clarion Class viewer.
 | Wiki | [DEVUNA](https://github.com/RobertArtigas/DEVUNA__IDE__/wiki) | KSS source text search, Clarion Class viewer.
 | Webinars | [DEVUNA](https://github.com/RobertArtigas/DEVUNA__IDE__) | ClarionLive: #644. Clarioneros: #212
-| Code | [UDRA](https://github.com/RobertArtigas/UDRA) | Ultimate Debug Roberto Artigas (non-class).
-| Wiki | [UDRA](https://github.com/RobertArtigas/UDRA/wiki) | Ultimate Debug Roberto Artigas (non-class).
+| Code | [UDRA](https://github.com/RobertArtigas/UDRA) | **U**ltimate **D**ebug **R**oberto **A**rtigas (non-class).
+| Wiki | [UDRA](https://github.com/RobertArtigas/UDRA/wiki) | **U**ltimate **D**ebug **R**oberto **A**rtigas (non-class).
 | | |
 | Code | [QRCodeUsingClass](https://github.com/RobertArtigas/QRCodeUsingClass) | Classes to assist in generating QR Codes. Original Class Wrapper code given by Roberto Renz. Extensive work done on the repository by Mark Sarson. Quite a few [examples](https://github.com/RobertArtigas/QRCodeUsingClass/tree/master/Examples) contributed by members of the **Clarioneros** Skype group since QR Codes are used in commercial documents.
 | Code | [GPS_ReaderExample](https://github.com/RobertArtigas/GPS_ReaderExample) | Uses a combination of Clarion, .NET, and Javascript to get information from GPS devices, track moving vehicles, and update a web map interactivately as the vehicles move.
