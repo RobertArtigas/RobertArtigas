@@ -100,7 +100,7 @@ That I'm Proud of <br/>
 Out of the Box <br/>
 An Epoxy to the World <br/>
 And the Vision We've Lost <br/>
-_**Whatever It Takes** - Imagine Dragons_
+_[**Whatever It Takes**](https://video.search.yahoo.com/search/video?fr=mcafee&p=youtube+whatever+it+takes+imagine+dragons&type=E210US105G0#id=7&vid=d6c66d1dfd91f47f8fd3984fb8394d9b&action=click) - Imagine Dragons_
 
 ##
 
