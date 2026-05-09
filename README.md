@@ -48,7 +48,7 @@ Webinars |  [RYB](https://github.com/RobertArtigas/RYB) | ClarionLive: #576, #59
 | Templates | [RYBEQUATES](https://github.com/RobertArtigas/RYBEQUATES) | Clarion EQUATES genererator (Other computer languages and data sources included)
 | Wiki | [RYBEQUATES](https://github.com/RobertArtigas/RYBEQUATES/wiki) | Documentatation
 | Templates | [DumpLoad](https://github.com/RobertArtigas/DumpLoad) | Save and restore your data (**TPS <-> CSV**)
-| Wiki | [DumpLoad](https://github.com/RobertArtigas/DumpLoad/wiki) | Documention
+| Wiki | [DumpLoad](https://github.com/RobertArtigas/DumpLoad/wiki) | Documentation
 | Webinars | [DumpLoad](https://github.com/RobertArtigas/DumpLoad) | ClarionLive: #595. Clarioneros: #178.
 | Templates | [XMLDOC](https://github.com/RobertArtigas/XMLDOC) | Create XML dump from the Dictionary and Application template internal structure
 | Wiki | [XMLDOC](https://github.com/RobertArtigas/XMLDOC/wiki) | Documentation
