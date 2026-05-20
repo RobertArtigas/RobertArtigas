@@ -105,7 +105,7 @@ _[**Whatever It Takes**](https://video.search.yahoo.com/search/video?fr=mcafee&p
 ##
 
 **The wise magician always adds the security clause at the end of his decrees:** <br/>
-_"This or something better in harmony for everyone under grace in a perfect way."_
+_"This or something better in harmony for everyone under grace in a perfect way."_ <br/>
 **- Roberto Artigas y Soler**
 
 ##
