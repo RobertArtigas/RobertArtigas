@@ -104,6 +104,12 @@ _[**Whatever It Takes**](https://video.search.yahoo.com/search/video?fr=mcafee&p
 
 ##
 
+**The wise magician always adds the security clause at the end of his decrees:** <br/>
+_"This or something better in harmony for everyone under grace in a perfect way."_
+**- Roberto Artigas y Soler**
+
+##
+
 ## Visual Studio Environment (2022.05 - Current)
 ![A](https://github.com/RobertArtigas/_ENV_/blob/main/Environment/Net/Images/ENV_01_01_VM_VISUAL_STUDIO.PNG)
 
