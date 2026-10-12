@@ -71,7 +71,7 @@ Webinars |  [RYB](https://github.com/RobertArtigas/RYB) | ClarionLive: #576, #59
 | [![Resume](https://img.shields.io/badge/-Resume-AC030A?logo=logoColor=white&style=plastic)](https://github.com/RobertArtigas/RobertArtigas/wiki/Resume) | [Resume](https://github.com/RobertArtigas/RobertArtigas/wiki/Resume) | __Status:__ *Available to help you complete your work.*
 | | |
 | | |
-| Writings | [Index](https://github.com/RobertArtigas/RobertArtigas/wiki/A-Directory-of-Documents)|
+| Writings | [Index of Articles](https://github.com/RobertArtigas/RobertArtigas/wiki/A-Directory-of-Documents)|
 | | |
 <!--
 | GitHub | [CarlTBarnes](https://github.com/CarlTBarnes) | Carl's GitHub Main Page
